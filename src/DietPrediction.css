@@ -1,0 +1,50 @@
+.diet-prediction-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .diet-prediction-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .diet-prediction-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #e02222;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .diet-prediction-button:hover {
+    background-color: #e02222;
+  }
+  
+  .diet-prediction-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px #e02222;
+  }
+  
+  .diet-info {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    line-height: 1.4;
+  }
+  
+  .diet-info strong {
+    font-weight: bold;
+  }
+  

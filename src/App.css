@@ -1,0 +1,48 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+  margin-top: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.app-header {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.app-subtitle {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.app-description {
+  font-size: 16px;
+  line-height:1.8;
+  margin-bottom: 20px;
+}
+
+.app-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.app-link:hover {
+  text-decoration: underline;
+}
+
+.app-footer {
+  margin-top: 30px;
+  font-size: 14px;
+  color: #777;
+}
+
+.app-footer a {
+  color: #777;
+  text-decoration: none;
+}
+
+.app-footer a:hover {
+  color: #333;
+}
